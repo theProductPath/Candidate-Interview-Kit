@@ -1,3 +1,12 @@
+---
+type: folder-readme-item
+folder: candidate-interview-kit
+status: active
+last-updated: 2026-05-13
+maintainer: Steven Jones
+purpose: Candidate Interview Kit — a tPP product for structuring and running AI-assisted candidate interviews.
+---
+
 # Candidate Interview Kit
 **A product of theProductPath**
 
@@ -137,6 +146,20 @@ The skill handles the rest.
 - **Team Kit:** `_team.md` is required — it defines the interviewer roster and per-interviewer focus areas.
 - `add-candidate.js` will try to refresh `comparison.html` automatically after creating the folder.
 - If a candidate name is entered incorrectly, use `node skill/scripts/rename-candidate.js "Old Name" "New Name"`.
+
+---
+
+## License
+
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE).
+
+SPDX-License-Identifier: Apache-2.0
+
+---
+
+## Trademarks
+
+The project names, logos, and associated brand assets are trademarks of their respective owners. Use of the code, documentation, templates, and examples is governed by the Apache-2.0 license; use of names and brand assets may require separate permission.
 
 ---
 
